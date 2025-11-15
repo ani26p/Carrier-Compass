@@ -1,0 +1,301 @@
+Name,Skills,Experience (Years),Past Job,Past Company,Current Job,Current Company
+Sneha Gupta,"Excel, Tableau, Python, SQL",12,System Administrator,HDFC,Data Analyst,Google
+Aditya Verma,"GCP, Docker",0,,,Cloud Engineer,Bajaj
+Dev Reddy,"Cloud, IAM",1,Data Scientist,Morgan Stanley,Cloud Security Engineer,PharmEasy
+Bhavya Verma,"TensorFlow, Deep Learning, ML, PyTorch",0,,,Machine Learning Engineer,CureFit
+Pratik Mehta,"InDesign, Illustrator",0,,,Graphic Designer,Zoho
+Esha Shah,"Ethereum, Solidity",10,Full Stack Developer,CureFit,Blockchain Developer,Netflix
+Divya Singh,"Manual Testing, Selenium",12,Business Analyst,Tata Consultancy Services,QA Tester,Adobe
+Sameer Reddy,"Security, AWS, IAM",0,,,Cloud Security Engineer,Dr.Reddy's
+Sameer Agrawal,"React, HTML, Node.js, SQL",0,,,Full Stack Developer,Axis Bank
+Sneha Patel,"A/B Testing, User Stories, Roadmap",0,,,Product Manager,Marriott
+Gautam Joshi,"IAM, Cloud, Security",8,Intern,IBM,Cloud Security Engineer,Zomato
+Kavya Malhotra,"PyTorch, Deep Learning, Linux",4,Intern,Microsoft,Machine Learning Engineer,Meta
+Varun Kapoor,"Scikit-learn, Statistics",4,Game Developer,PhonePe,Data Scientist,Morgan Stanley
+Rhea Kulkarni,"Pandas, Python, Machine Learning",0,,,Data Scientist,CureFit
+Smita Malhotra,"Ethereum, Smart Contracts, Solidity",3,Recruiter,Samsung,Blockchain Developer,Cisco
+Pooja Pandit,"User Research, Adobe XD, Figma, Sketch",0,,,UI/UX Designer,Goldman Sachs
+Gautam Desai,"Django, JavaScript, AWS",6,Software Engineer,L&T,Full Stack Developer,Oracle
+Vivek Saini,"Computer Vision, NLP, Python",11,Blockchain Developer,IBM,AI Engineer,Bosch
+Ritika Kumar,"Security, Cloud",8,Graphic Designer,Razorpay,Cloud Security Engineer,JP Morgan
+Anjali Gupta,"Content, SEO, Keyword Research",11,Cybersecurity Analyst,Microsoft,SEO Specialist,Reliance
+Shivani Saxena,"Wireframing, UML, SQL",0,,,Business Analyst,Cognizant
+Rohan Iyer,"Incidence Response, Network Security, Penetration Testing",8,Network Engineer,Meta,Cybersecurity Engineer,Bosch
+Ishaan Nair,"Penetration Testing, Network Security, Incidence Response",4,AI Engineer,Meesho,Cybersecurity Engineer,Bosch
+Pooja Bhatia,"Illustrator, InDesign, Creativity",9,AI Engineer,Morgan Stanley,Graphic Designer,HCL
+Divya Singh,"JavaScript, Vue.js, CSS, SQL",5,Project Manager,Bosch,Frontend Developer,KPMG
+Anjali Nagar,"AWS, Shell Scripting, Linux, Networking",0,,,System Administrator,Axis Bank
+Anjali Saini,"Java, C++",0,,,Software Engineer,Unacademy
+Rohan Chopra,"Test Automation, Manual Testing, Selenium, JUnit",9,Digital Marketer,Freshworks,QA Tester,Siemens
+Ishaan Kapoor,"GCP, Azure, AWS, CloudFormation",3,Trainee,Biocon,Cloud Engineer,Bosch
+Ananya Chatterjee,"Sales, Negotiation, Communication",11,Backend Developer,PharmEasy,Sales Executive,HCLTech
+Manan Saini,"Shell Scripting, Networking, Linux, AWS",0,,,System Administrator,Razorpay
+Anjali Agrawal,"User Stories, Roadmap",6,Full Stack Developer,Intel,Product Manager,Wipro
+Sneha Kulkarni,"Robotics, ROS, REST APIs",0,,,Robotics Engineer,Razorpay
+Rahul Menon,"UML, Wireframing",0,,,Business Analyst,Capgemini
+Varun Reddy,"Requirement Gathering, Wireframing, SQL",0,,,Business Analyst,Mahindra
+Sneha Rao,"Communication, Zendesk, Problem Solving, Ticketing",10,Embedded Engineer,Deloitte,Customer Support,PharmEasy
+Dev Verma,"iOS, Java",0,,,Mobile App Developer,Axis Bank
+Yash Verma,"Cloud, IAM, Security",6,BI Developer,Adobe,Cloud Security Engineer,Qualcomm
+Pratik Menon,"CSS, Python, Django",0,,,Full Stack Developer,Flipkart
+Rhea Nagar,"Network Security, Penetration Testing",5,Robotics Engineer,Bajaj,Cybersecurity Engineer,Paytm
+Harsh Rao,"Communication, Recruitment, HR Policies",4,Recruiter,Morgan Stanley,HR Manager,Google
+Nikhil Joshi,"Jenkins, AWS",12,BI Developer,Byju's,DevOps Engineer,Tata Consultancy Services
+Sneha Chopra,"SQL, Tableau",7,Accountant,IBM,Data Analyst,Byju's
+Sonal Menon,"Penetration Testing, SIEM, Wireshark",10,Trainee,Axis Bank,Cybersecurity Analyst,Freshworks
+Priya Verma,"Communication, HR Policies",6,Blockchain Developer,Flipkart,HR Manager,Uber
+Kriti Joshi,"PHP, JavaScript, Laravel",0,,,Web Developer,Axis Bank
+Harsh Saini,"C#, C++, Game Design, Unity, SQL",3,Project Manager,PwC,Game Developer,Ola
+Maya Desai,"Sales, Negotiation, CRM",4,Graphic Designer,Uber,Sales Executive,Accenture
+Anjali Thakur,"AWS, Networking, Shell Scripting, Linux",10,Trainee,Freshworks,System Administrator,AMD
+Aditya Bose,"Scikit-learn, Machine Learning, Python, SQL",5,DevOps Engineer,Accenture,Data Scientist,Uber
+Harsh Joshi,"Keyword Research, SEO, Google Analytics, Content",10,Cybersecurity Analyst,Infosys,SEO Specialist,Biocon
+Aditya Nagar,"Requirement Gathering, SQL",1,AI Engineer,PharmEasy,Business Analyst,Capgemini
+Divya Bose,"Adobe XD, Figma, Sketch",0,,,UI/UX Designer,Oracle
+Yash Menon,"Excel, Accounting",5,Trainee,Morgan Stanley,Accountant,Google
+Kavita Singh,"System Design, Algorithms, Data Structures",2,Game Developer,PwC,Software Engineer,Goldman Sachs
+Esha Kulkarni,"TensorFlow, PyTorch, Python",2,Embedded Engineer,Google,Machine Learning Engineer,Meta
+Akash Saxena,"Security, Cloud, IAM",4,Intern,Siemens,Cloud Security Engineer,Zomato
+Suhana Gupta,"Ticketing, Zendesk",11,Software Engineer,Capgemini,Customer Support,PwC
+Harsh Reddy,"ML, Deep Learning, PyTorch",6,Software Engineer,Freshworks,Machine Learning Engineer,Bajaj
+Suhana Rao,"Cloud, IAM",0,,,Cloud Security Engineer,SpaceX
+Akash Saxena,"C, Microcontrollers, Embedded Systems",0,,,Embedded Engineer,Intel
+Varun Jain,"Azure, Docker, GCP",0,,,Cloud Engineer,EY
+Mohit Desai,"Google Analytics, Keyword Research, SEO, Content",0,,,SEO Specialist,Bajaj
+Anjali Kapoor,"Python, HTML, CSS, Django",7,Customer Support,Razorpay,Full Stack Developer,Bajaj
+Bhavya Patel,"Machine Learning, Scikit-learn",1,System Administrator,SAP,Data Scientist,Capgemini
+Lokesh Menon,"Game Design, C#",0,,,Game Developer,Marriott
+Bhavya Nair,"A/B Testing, Roadmap, Analytics, User Stories, Git",0,,,Product Manager,Samsung
+Ishaan Menon,"Docker, Kubernetes, Terraform",6,Trainee,HCL,DevOps Engineer,AMD
+Shreya Iyer,"JavaScript, CSS, React",6,Product Manager,L&T,Frontend Developer,Capgemini
+Diya Reddy,"IAM, Security",11,Graphic Designer,IBM,Cloud Security Engineer,Dr.Reddy's
+Manan Rao,"CI/CD, AWS, Kubernetes",6,Network Engineer,Axis Bank,DevOps Engineer,HCL
+Isha Rao,"AWS, IAM",5,Project Manager,ICICI,Cloud Security Engineer,Morgan Stanley
+Anjali Kulkarni,"InDesign, Photoshop",0,,,Graphic Designer,Wipro
+Aisha Nagar,"React Native, Android, Kotlin, iOS",0,,,Mobile App Developer,Freshworks
+Nikhil Joshi,"Creativity, Illustrator, Photoshop",10,Software Engineer,Wipro,Graphic Designer,HCL
+Varun Kumar,"Sourcing, LinkedIn, Recruitment, Linux",5,Game Developer,Unacademy,Recruiter,Meesho
+Varun Malhotra,"SIEM, Penetration Testing, AWS",3,Recruiter,Tesla,Cybersecurity Analyst,EY
+Sneha Desai,"Azure, GCP",0,,,Cloud Engineer,Accenture
+Arnav Gupta,"Power BI, Python, Excel, SQL",0,,,Data Analyst,SAP
+Tarun Chopra,"Wireshark, Network Security, Penetration Testing, SIEM",2,Recruiter,HDFC,Cybersecurity Analyst,Honeywell
+Ananya Nagar,"Data Structures, Algorithms",3,Intern,ICICI,Software Engineer,Intel
+Mohit Agrawal,"Penetration Testing, Network Security",0,,,Cybersecurity Engineer,Razorpay
+Nisha Reddy,"Google Analytics, SEO, Keyword Research",0,,,SEO Specialist,PharmEasy
+Ritika Verma,"Docker, AWS, AWS",3,Business Analyst,Qualcomm,DevOps Engineer,TCS
+Tarun Shah,"C++, ROS",10,Trainee,Biocon,Robotics Engineer,SpaceX
+Rhea Joshi,"User Stories, A/B Testing, Roadmap",11,Sales Executive,PwC,Product Manager,Cognizant
+Varun Pandit,"SQL, Pandas",0,,,Data Analyst,KPMG
+Kavita Kumar,"Network Security, Penetration Testing, Wireshark, SIEM, AWS",7,Intern,Uber,Cybersecurity Analyst,Dr.Reddy's
+Aditya Iyer,"Network Security, Penetration Testing, Incidence Response",0,,,Cybersecurity Engineer,Goldman Sachs
+Mohit Bose,"Android, Kotlin, React Native",0,,,Mobile App Developer,Swiggy
+Rahul Chatterjee,"CRM, Negotiation, Communication",0,,,Sales Executive,Siemens
+Rahul Desai,"JavaScript, CSS",2,Cloud Engineer,Byju's,Web Developer,HCL
+Arnav Chopra,"AWS, Linux",0,,,System Administrator,PharmEasy
+Aisha Nair,"CRM, Negotiation, Sales",2,Full Stack Developer,Tesla,Sales Executive,Swiggy
+Rohan Ghosh,"LinkedIn, Sourcing, Interviewing",0,,,Recruiter,Siemens
+Lokesh Singh,"SQL, UML",0,,,Business Analyst,Google
+Yash Desai,"AWS, Cloud, IAM, SQL",7,Sales Executive,Amazon,Cloud Security Engineer,Siemens
+Arnav Bose,"Python, ML, TensorFlow",8,Product Manager,Deloitte,Machine Learning Engineer,Goldman Sachs
+Meera Kulkarni,"PHP, CSS, HTML",2,Software Engineer,Oracle,Web Developer,Qualcomm
+Sana Rao,"Penetration Testing, Network Security",6,Graphic Designer,PwC,Cybersecurity Engineer,Mahindra
+Tanvi Kapoor,"InDesign, Illustrator, Photoshop, Creativity",1,Mobile App Developer,Axis Bank,Graphic Designer,Netflix
+Ishaan Kapoor,"HTML, CSS",0,,,Web Developer,Wipro
+Meera Saini,"Data Structures, C++",0,,,Software Engineer,KPMG
+Kavya Chatterjee,"Microcontrollers, Embedded Systems, C++, C",11,Customer Support,Samsung,Embedded Engineer,Oracle
+Ritika Verma,"Pandas, Power BI, Excel, Python, SQL",7,Cloud Security Engineer,Netflix,Data Analyst,Deloitte
+Aditya Iyer,"AWS, Security",7,Business Analyst,Siemens,Cloud Security Engineer,Biocon
+Esha Verma,"Microcontrollers, Embedded Systems, C",11,Cloud Security Engineer,Razorpay,Embedded Engineer,Wipro
+Aarav Joshi,"Pandas, Python, Scikit-learn",0,,,Data Scientist,Microsoft
+Vikram Iyer,"Keyword Research, SEO, Content",1,Data Analyst,Honeywell,SEO Specialist,Cisco
+Ananya Jain,"Zendesk, Communication, Ticketing",10,Trainee,Marriott,Customer Support,Wipro
+Sneha Pandit,"Sketch, Prototyping, User Research",0,,,UI/UX Designer,PhonePe
+Yash Agrawal,"Requirement Gathering, Wireframing",1,Machine Learning Engineer,Byju's,Business Analyst,Unacademy
+Divya Verma,"React Native, Swift, Kotlin",11,Network Engineer,HDFC,Mobile App Developer,Wipro
+Tarun Joshi,"Network Security, Incidence Response",10,Sales Executive,Samsung,Cybersecurity Engineer,TCS
+Nisha Pandit,"UML, SQL",0,,,Business Analyst,HCL
+Pratik Kulkarni,"Prototyping, Sketch",4,Data Scientist,Tata Consultancy Services,UI/UX Designer,Zoho
+Pallavi Bhatia,"Django, React, CSS",0,,,Full Stack Developer,Accenture
+Karan Pandit,"PHP, CSS, SQL",0,,,Web Developer,PharmEasy
+Tanvi Ghosh,"JUnit, Test Automation",0,,,QA Tester,Qualcomm
+Sonal Reddy,"Photoshop, InDesign, Creativity",3,Trainee,JP Morgan,Graphic Designer,Infosys
+Shreya Bhatia,"LinkedIn, Recruitment, Interviewing",11,Intern,AMD,Recruiter,Siemens
+Kunal Nair,"Solidity, Ethereum, Web3",3,Robotics Engineer,Tesla,Blockchain Developer,Razorpay
+Pratik Saini,"Node.js, Flask, Express, Django",3,Graphic Designer,Wipro,Backend Developer,HDFC
+Rohan Menon,"CSS, PHP, HTML",6,Web Developer,Morgan Stanley,Web Developer,Goldman Sachs
+Shreya Gupta,"Roadmap, User Stories",0,,,Product Manager,Marriott
+Pratik Jain,"Android, Java, Kotlin",0,,,Mobile App Developer,Unacademy
+Vikram Verma,"Robotics, ROS",0,,,Robotics Engineer,Expedia
+Pranav Nair,"PM Tools, Stakeholder Management",0,,,Project Manager,Razorpay
+Aarav Shah,"Wireframing, SQL, UML",0,,,Business Analyst,Razorpay
+Vivek Malhotra,"Test Automation, Selenium, Manual Testing, JUnit, Docker",12,Trainee,Google,QA Tester,Mahindra
+Pooja Singh,"Test Automation, Manual Testing, AWS",10,Product Manager,L&T,QA Tester,CureFit
+Kunal Nagar,"JavaScript, PHP, HTML, Git",8,Game Developer,Expedia,Web Developer,Goldman Sachs
+Dev Saini,"Recruitment, Interviewing",0,,,Recruiter,Cognizant
+Aarav Pandit,"Switching, Cisco",0,,,Network Engineer,Qualcomm
+Sana Singh,"Smart Contracts, Web3",8,SEO Specialist,Amazon,Blockchain Developer,PhonePe
+Mohit Desai,"HTML, JavaScript, CSS, Laravel",7,AI Engineer,Mahindra,Web Developer,Paytm
+Tanvi Kapoor,"Statistics, Python, Scikit-learn",3,DevOps Engineer,JP Morgan,Data Scientist,Biocon
+Kriti Mehta,"Google Ads, Analytics, SEO",5,Data Scientist,SpaceX,Digital Marketer,Amazon
+Yash Saini,"Sourcing, Interviewing, Recruitment",4,Software Engineer,Amazon,Recruiter,Adobe
+Kavya Desai,"Django, Java, Express, Node.js",0,,,Backend Developer,Samsung
+Nisha Menon,"Incidence Response, Penetration Testing",1,Business Analyst,EY,Cybersecurity Engineer,Infosys
+Manan Menon,"Python, Pandas, Statistics",11,DevOps Engineer,Oracle,Data Scientist,Morgan Stanley
+Dev Iyer,"Ticketing, Problem Solving",4,BI Developer,Razorpay,Customer Support,Unacademy
+Diya Sharma,"Web3, Smart Contracts, Solidity, REST APIs",7,BI Developer,Honeywell,Blockchain Developer,Freshworks
+Sonal Thakur,"GST, Accounting, Tally, Excel",7,Software Engineer,Morgan Stanley,Accountant,PharmEasy
+Shivani Singh,"Content, Google Analytics, SEO",2,Cybersecurity Engineer,Nvidia,SEO Specialist,Qualcomm
+Kavita Chatterjee,"Java, Spring, Flask, Python",5,Trainee,Google,Backend Developer,Accenture
+Divya Chopra,"Switching, Routing, Network Security",8,Graphic Designer,Cisco,Network Engineer,Microsoft
+Karan Gupta,"Docker, AWS",0,,,Cloud Engineer,CureFit
+Nisha Saxena,"Ticketing, Zendesk, Problem Solving, Communication",10,Trainee,Siemens,Customer Support,AMD
+Rohan Kapoor,"Switching, Cisco",5,Backend Developer,ICICI,Network Engineer,ICICI
+Ishaan Kapoor,"Manual Testing, JUnit, Selenium, Test Automation",5,Full Stack Developer,Samsung,QA Tester,Meesho
+Sonal Patel,"Docker, Azure",5,Trainee,Tata Consultancy Services,Cloud Engineer,Swiggy
+Ritika Nagar,"Python, NLP, Linux",0,,,AI Engineer,Cognizant
+Sonal Bose,"Zendesk, Communication",5,Trainee,TCS,Customer Support,Razorpay
+Maya Saxena,"Scrum, Stakeholder Management, Agile",7,QA Tester,Byju's,Project Manager,Samsung
+Harsh Chopra,"Vue.js, JavaScript",9,Trainee,Kotak,Frontend Developer,PharmEasy
+Rajat Kapoor,"Tableau, Power BI",11,Sales Executive,HCLTech,BI Developer,HCL
+Vikram Patel,"SQL, Pandas, Python",5,Trainee,Samsung,Data Analyst,HCLTech
+Harsh Verma,"ML, Deep Learning",1,HR Manager,Bosch,Machine Learning Engineer,Marriott
+Sonal Sharma,"Ticketing, Problem Solving, Communication",2,Trainee,Tesla,Customer Support,Goldman Sachs
+Pallavi Sharma,"Excel, GST, Tally",4,Software Engineer,Marriott,Accountant,SAP
+Bhavya Gupta,"Pandas, Machine Learning, Scikit-learn",0,,,Data Scientist,KPMG
+Aarav Verma,"Unity, C++, Game Design",0,,,Game Developer,Meta
+Akash Rao,"PM Tools, Scrum",0,,,Project Manager,CureFit
+Sonal Kumar,"InDesign, Creativity, Photoshop",2,Graphic Designer,Adobe,Graphic Designer,KPMG
+Nilesh Iyer,"Recruitment, LinkedIn",1,Intern,Honeywell,Recruiter,PwC
+Tanvi Thakur,"SQL, Tableau, Data Modelling, Power BI",6,Full Stack Developer,Mahindra,BI Developer,HCLTech
+Meera Bose,"Cloud, IAM, AWS, Security",8,Blockchain Developer,Flipkart,Cloud Security Engineer,Infosys
+Varun Verma,"Network Security, Cisco, Switching",0,,,Network Engineer,TCS
+Ananya Chopra,"IAM, Cloud, AWS",9,Data Analyst,Marriott,Cloud Security Engineer,Netflix
+Ishaan Rao,"Routing, Network Security",1,Web Developer,SpaceX,Network Engineer,Intel
+Sana Iyer,"CSS, JavaScript",2,Robotics Engineer,Accenture,Frontend Developer,Meesho
+Nisha Saini,"Azure, GCP, Docker, AWS",0,,,Cloud Engineer,Capgemini
+Zoya Singh,"Node.js, React",3,Trainee,Nvidia,Full Stack Developer,HDFC
+Maya Gupta,"User Research, Adobe XD, Sketch, Figma",6,Full Stack Developer,Kotak,UI/UX Designer,Honeywell
+Kunal Mehta,"Deep Learning, Python",6,Data Scientist,EY,Machine Learning Engineer,SpaceX
+Nilesh Chopra,"Analytics, Google Ads, SEO",0,,,Digital Marketer,Biocon
+Divya Sharma,"ML, Deep Learning, TensorFlow, Python",6,AI Engineer,PwC,Machine Learning Engineer,PwC
+Sneha Gupta,"AWS, Azure, Docker",8,Machine Learning Engineer,Meesho,Cloud Engineer,Meesho
+Kavya Reddy,"LinkedIn, Recruitment",3,Cybersecurity Engineer,Reliance,Recruiter,Intel
+Mohit Shah,"Django, Spring, Java",0,,,Backend Developer,L&T
+Pooja Reddy,"Problem Solving, Communication, Zendesk, Ticketing, Git",7,Project Manager,IBM,Customer Support,Tata Consultancy Services
+Kavita Verma,"Python, Spring, Flask, Django, Git",7,Embedded Engineer,Bajaj,Backend Developer,Ola
+Pratik Singh,"Wireframing, SQL, Requirement Gathering, UML",7,Trainee,Marriott,Business Analyst,Goldman Sachs
+Kriti Mehta,"Game Design, Unity, C#",2,DevOps Engineer,Swiggy,Game Developer,Razorpay
+Akash Saxena,"Figma, Sketch, User Research",0,,,UI/UX Designer,KPMG
+Pallavi Chatterjee,"NLP, Python",5,Accountant,CureFit,AI Engineer,Honeywell
+Kunal Menon,"Zendesk, Problem Solving",7,Data Scientist,PhonePe,Customer Support,Dr.Reddy's
+Diya Verma,"Zendesk, Ticketing, Communication, Problem Solving",0,,,Customer Support,Swiggy
+Harsh Gupta,"ML, PyTorch, Python",9,Game Developer,PwC,Machine Learning Engineer,Byju's
+Dev Verma,"ML, TensorFlow, Deep Learning, Linux",6,Trainee,Amazon,Machine Learning Engineer,Swiggy
+Meera Mehta,"Creativity, Illustrator, InDesign",10,Accountant,Intel,Graphic Designer,PharmEasy
+Suhana Rao,"Deep Learning, ML, Python",8,Embedded Engineer,Byju's,Machine Learning Engineer,Kotak
+Maya Agrawal,"Agile, Stakeholder Management",9,Mobile App Developer,Byju's,Project Manager,Meesho
+Ananya Verma,"Adobe XD, Sketch, Prototyping, User Research",0,,,UI/UX Designer,Freshworks
+Kavya Mehta,"Illustrator, Photoshop, Creativity",0,,,Graphic Designer,Kotak
+Zoya Jain,"Python, Power BI",3,UI/UX Designer,Nvidia,Data Analyst,Reliance
+Bhavya Shah,"Algorithms, C++, Data Structures",0,,,Software Engineer,Goldman Sachs
+Bhavya Ghosh,"Wireframing, SQL, UML",6,Robotics Engineer,PhonePe,Business Analyst,Accenture
+Isha Jain,"Requirement Gathering, UML, SQL",0,,,Business Analyst,Intel
+Dev Gupta,"Microcontrollers, C, Embedded Systems, C++",7,Cybersecurity Engineer,Swiggy,Embedded Engineer,Ola
+Juned Agrawal,"Network Security, Incidence Response, Penetration Testing",0,,,Cybersecurity Engineer,Capgemini
+Shivani Joshi,"PHP, JavaScript",1,Intern,CureFit,Web Developer,Paytm
+Tarun Ghosh,"Communication, HR Policies, Talent Acquisition",8,Digital Marketer,AMD,HR Manager,Uber
+Rahul Gupta,"C++, Data Structures",1,HR Manager,Deloitte,Software Engineer,HDFC
+Aisha Sharma,"iOS, Java, React Native, Swift, Git",11,Intern,Samsung,Mobile App Developer,Siemens
+Pallavi Kulkarni,"Tally, Excel, Accounting",5,Digital Marketer,Razorpay,Accountant,Netflix
+Karan Bose,"HR Policies, Talent Acquisition",3,Graphic Designer,Bosch,HR Manager,Wipro
+Arjun Agrawal,"Penetration Testing, Network Security, Incidence Response",9,Recruiter,Reliance,Cybersecurity Engineer,Cisco
+Varun Rao,"CRM, Negotiation",0,,,Sales Executive,Reliance
+Sameer Chatterjee,"NLP, Computer Vision",2,Data Analyst,TCS,AI Engineer,Google
+Rhea Patel,"Google Analytics, Keyword Research, Content",0,,,SEO Specialist,L&T
+Ritika Rao,"IAM, Cloud",3,Cybersecurity Analyst,Bajaj,Cloud Security Engineer,HDFC
+Nilesh Saini,"ML, PyTorch",7,Cloud Engineer,Google,Machine Learning Engineer,Capgemini
+Pranav Iyer,"Node.js, Spring, Python, Flask",7,Robotics Engineer,Kotak,Backend Developer,Intel
+Kriti Chopra,"HTML, CSS",0,,,Frontend Developer,Axis Bank
+Esha Menon,"HTML, React",3,Intern,Morgan Stanley,Frontend Developer,Kotak
+Rhea Verma,"Solidity, Ethereum, Smart Contracts, Web3",5,Digital Marketer,Tata Consultancy Services,Blockchain Developer,Netflix
+Shreya Desai,"Smart Contracts, Web3, Linux",0,,,Blockchain Developer,KPMG
+Manan Shah,"GST, Excel, Tally",0,,,Accountant,CureFit
+Shivani Ghosh,"Python, TensorFlow",0,,,AI Engineer,PharmEasy
+Ritika Reddy,"C#, Game Design, Unity, C++",9,Recruiter,KPMG,Game Developer,Meesho
+Manan Desai,"Solidity, Ethereum, Web3",0,,,Blockchain Developer,Ola
+Harsh Kapoor,"Android, React Native",0,,,Mobile App Developer,Zoho
+Gautam Nair,"PHP, CSS, Laravel, HTML",5,Data Analyst,Siemens,Web Developer,ICICI
+Kunal Menon,"Negotiation, Sales, CRM, Communication",0,,,Sales Executive,Meesho
+Gautam Rao,"SQL, Tableau",6,Software Engineer,KPMG,BI Developer,PharmEasy
+Manan Kapoor,"JavaScript, React",9,Mobile App Developer,EY,Frontend Developer,Unacademy
+Pranav Chopra,"Statistics, Pandas, Scikit-learn",5,Intern,Kotak,Data Scientist,Unacademy
+Karan Saini,"C++, Unity, C#",0,,,Game Developer,Honeywell
+Ritika Singh,"Statistics, Python, Pandas",7,Customer Support,Goldman Sachs,Data Scientist,Meta
+Sneha Chatterjee,"Kotlin, iOS",11,System Administrator,Freshworks,Mobile App Developer,HDFC
+Ananya Menon,"C++, Microcontrollers",11,Data Analyst,EY,Embedded Engineer,Wipro
+Tanvi Pandit,"Shell Scripting, Linux, Networking",0,,,System Administrator,L&T
+Lokesh Sharma,"Penetration Testing, Wireshark",0,,,Cybersecurity Analyst,Netflix
+Kavita Saxena,"Ticketing, Communication, Zendesk, Problem Solving",0,,,Customer Support,Microsoft
+Harsh Chopra,"Docker, AWS",3,HR Manager,Razorpay,DevOps Engineer,Honeywell
+Aniket Chopra,"Manual Testing, Selenium",2,System Administrator,Tesla,QA Tester,Meesho
+Anjali Reddy,"Routing, Network Security, Switching, Cisco",12,Intern,Oracle,Network Engineer,HCL
+Sana Bose,"CRM, Communication, Git",4,Intern,Goldman Sachs,Sales Executive,IBM
+Rhea Chopra,"IAM, AWS, Security, Cloud",10,Embedded Engineer,Cognizant,Cloud Security Engineer,Siemens
+Smita Bhatia,"Network Security, Routing",3,Accountant,SpaceX,Network Engineer,Tesla
+Ananya Sharma,"CSS, JavaScript, Bootstrap",0,,,Frontend Developer,Morgan Stanley
+Kavya Saini,"SQL, Tableau, Power BI",4,Customer Support,Meta,BI Developer,Siemens
+Maya Jain,"Power BI, SQL",2,Robotics Engineer,Axis Bank,BI Developer,Reliance
+Isha Joshi,"Robotics, ROS, Control Systems",4,Blockchain Developer,Deloitte,Robotics Engineer,Nvidia
+Sonal Saini,"ROS, Control Systems",1,Mobile App Developer,Netflix,Robotics Engineer,Honeywell
+Yash Kumar,"SQL, Excel",1,QA Tester,HDFC,Data Analyst,Zomato
+Ananya Agrawal,"Bootstrap, React",0,,,Frontend Developer,Wipro
+Divya Menon,"Interviewing, Recruitment, REST APIs",10,HR Manager,Microsoft,Recruiter,Biocon
+Tarun Chopra,"Microcontrollers, Embedded Systems",0,,,Embedded Engineer,Meta
+Shivani Chopra,"NLP, TensorFlow",6,Full Stack Developer,Uber,AI Engineer,Microsoft
+Shivani Saini,"Control Systems, ROS, Linux",0,,,Robotics Engineer,Deloitte
+Nisha Nair,"PM Tools, Stakeholder Management",11,Mobile App Developer,Swiggy,Project Manager,Intel
+Pratik Patel,"Python, ML",10,Cybersecurity Engineer,Nvidia,Machine Learning Engineer,KPMG
+Aditya Menon,"CSS, Django, Node.js",0,,,Full Stack Developer,HDFC
+Arnav Joshi,"HR Policies, Recruitment",3,Software Engineer,Morgan Stanley,HR Manager,Adobe
+Rahul Kumar,"Ticketing, Zendesk",7,Graphic Designer,Byju's,Customer Support,Marriott
+Sonal Menon,"Solidity, Smart Contracts, Linux",0,,,Blockchain Developer,Netflix
+Meera Chatterjee,"HTML, JavaScript, Python",7,Intern,Qualcomm,Full Stack Developer,Marriott
+Pallavi Singh,"PyTorch, Python, NLP, TensorFlow",0,,,AI Engineer,Tata Consultancy Services
+Pratik Nair,"ROS, Control Systems, Robotics, C++",10,Trainee,Dr.Reddy's,Robotics Engineer,Mahindra
+Shivani Kulkarni,"Stakeholder Management, Scrum, Agile, PM Tools",0,,,Project Manager,Tesla
+Aarav Sharma,"PM Tools, Agile, Stakeholder Management",10,Backend Developer,Mahindra,Project Manager,L&T
+Neha Malhotra,"Solidity, Ethereum, Smart Contracts",10,BI Developer,Cognizant,Blockchain Developer,TCS
+Akash Saini,"Machine Learning, Pandas",9,DevOps Engineer,PwC,Data Scientist,Zomato
+Divya Reddy,"Laravel, PHP, JavaScript",5,Backend Developer,Dr.Reddy's,Web Developer,IBM
+Ananya Kapoor,"CSS, HTML",0,,,Web Developer,Unacademy
+Meera Gupta,"Embedded Systems, C",2,Data Scientist,Flipkart,Embedded Engineer,Oracle
+Kriti Chopra,"Vue.js, CSS, JavaScript, Bootstrap, AWS",10,Cybersecurity Analyst,HCLTech,Frontend Developer,Zoho
+Pratik Menon,"Android, Kotlin",0,,,Mobile App Developer,PwC
+Kavita Kulkarni,"Communication, Ticketing, Zendesk, Problem Solving",11,Cybersecurity Engineer,Netflix,Customer Support,Bosch
+Suhana Iyer,"CRM, Communication, Sales",6,Trainee,Reliance,Sales Executive,Paytm
+Zoya Agrawal,"System Design, Data Structures",3,Accountant,Kotak,Software Engineer,Reliance
+Neha Gupta,"Robotics, Control Systems, C++",4,Recruiter,Deloitte,Robotics Engineer,PharmEasy
+Pratik Rao,"Unity, C#, C++",3,DevOps Engineer,Netflix,Game Developer,Oracle
+Ritika Malhotra,"PHP, CSS, JavaScript",4,Frontend Developer,Zoho,Web Developer,Mahindra
+Neha Thakur,"UML, Wireframing, Requirement Gathering",0,,,Business Analyst,SpaceX
+Shreya Malhotra,"JavaScript, CSS, Laravel",4,Data Analyst,Oracle,Web Developer,Google
+Harsh Bhatia,"Data Modelling, Power BI, Tableau",0,,,BI Developer,Microsoft
+Harsh Patel,"AWS, Linux, Networking, Shell Scripting",0,,,System Administrator,Qualcomm
+Maya Singh,"SIEM, Penetration Testing, Wireshark",3,BI Developer,Meesho,Cybersecurity Analyst,CureFit
+Ishaan Bhatia,"Ethereum, Web3, Solidity",12,Intern,Cisco,Blockchain Developer,Kotak
+Kunal Sharma,"GCP, CloudFormation, AWS",0,,,Cloud Engineer,Dr.Reddy's
+Rohan Agrawal,"Figma, Adobe XD",3,HR Manager,Adobe,UI/UX Designer,Siemens
+Pranav Patel,"Test Automation, JUnit, Selenium, Manual Testing",2,Blockchain Developer,ICICI,QA Tester,TCS
+Lokesh Desai,"Algorithms, Data Structures",8,UI/UX Designer,Mahindra,Software Engineer,Razorpay
+Kavya Nair,"Unity, C#, Game Design, Git",11,Data Scientist,Infosys,Game Developer,Meta
+Rahul Rao,"Embedded Systems, C, C++, Microcontrollers",12,Data Scientist,Netflix,Embedded Engineer,Paytm
+Karan Sharma,"Deep Learning, PyTorch, TensorFlow, AWS",7,Trainee,Byju's,Machine Learning Engineer,Tesla
+Manan Chatterjee,"Manual Testing, Test Automation",2,UI/UX Designer,Paytm,QA Tester,Capgemini
+Akash Verma,"Terraform, Kubernetes, Docker, Docker",9,Graphic Designer,Intel,DevOps Engineer,JP Morgan
+Gautam Nair,"Express, Spring, Django",8,AI Engineer,PhonePe,Backend Developer,Meta
+Aisha Verma,"Power BI, SQL",0,,,BI Developer,PharmEasy
+Shreya Jain,"Communication, Talent Acquisition",12,Cybersecurity Analyst,Siemens,HR Manager,L&T
+Arjun Kumar,"AWS, GCP, CloudFormation, Azure",2,Game Developer,SpaceX,Cloud Engineer,Bosch
+Arnav Ghosh,"Sales, Negotiation, Communication",5,Mobile App Developer,Intel,Sales Executive,Kotak
+Nilesh Saini,"Recruitment, LinkedIn",4,Cybersecurity Analyst,EY,Recruiter,PhonePe
+Gautam Kumar,"Flask, Python",3,Customer Support,Siemens,Backend Developer,L&T
