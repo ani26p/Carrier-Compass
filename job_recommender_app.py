@@ -181,14 +181,12 @@ HTML = """<!doctype html>
 
           <div class="row g-2 mt-3 align-items-center">
 
-            <!-- CENTERED + WIDER STATUS BOX -->
             <div class="col-md-7 d-flex justify-content-center">
               <input id="modelStatus" class="form-control text-center"
                      style="font-weight:bold; color:#0d6efd; width:100%; max-width:500px;"
                      value="CARRIER COMPASS" disabled>
             </div>
 
-            <!-- Buttons -->
             <div class="col-md-5 text-end">
               <button class="btn btn-primary" id="predictBtn">Predict</button>
               <button class="btn btn-outline-secondary" id="genResumeBtn">Generate Resume</button>
@@ -226,7 +224,6 @@ let fullCompList = [];
 let displayedJobs = [];
 let displayedComps = [];
 
-// Pick 2 random
 function pickTwoRandom(arr){
   if(arr.length <= 1) return arr;
   let a = Math.floor(Math.random() * arr.length);
@@ -238,22 +235,17 @@ function pickTwoRandom(arr){
 document.getElementById("predictBtn").addEventListener("click", async (e)=>{
   e.preventDefault();
 
-  // ⛔ Show error if skills empty
   if (skills.value.trim() === "") {
     alert("Please enter your skills before predicting!");
     return;
   }
 
   const modelBox = document.getElementById("modelStatus");
-
-  // Show processing message
   modelBox.value = "Processing... Please wait";
   document.getElementById("predictBtn").disabled = true;
 
-  // Wait 3 seconds
   await new Promise(r => setTimeout(r, 1500));
 
-  // Prepare payload
   const payload = {
     skills: skills.value,
     pastJob: pastJob.value,
@@ -278,13 +270,11 @@ document.getElementById("predictBtn").addEventListener("click", async (e)=>{
   jobPred.innerHTML = displayedJobs.map(j => `<span class='pill'>${j}</span>`).join("");
   compPred.innerHTML = displayedComps.map(j => `<span class='pill'>${j}</span>`).join("");
 
-  // Show model info again
   modelBox.value = "Best Model: {{model}} (Accuracy: {{acc}}%)";
 
   document.getElementById("predictBtn").disabled = false;
 });
 
-// Resume button popup + generate
 document.getElementById("genResumeBtn").addEventListener("click", async (e)=>{
   e.preventDefault();
 
@@ -375,6 +365,7 @@ def generate_resume():
     skills = data.get("skills","")
     past_job = data.get("pastJob","")
     past_company = data.get("pastCompany","")
+    experience = data.get("experience","0")
 
     job_suggestions = ", ".join(data.get("job_roles",[]))
     company_suggestions = ", ".join(data.get("companies",[]))
@@ -385,35 +376,42 @@ def generate_resume():
     pdf.add_page()
     pdf.set_font("Arial", size=12)
 
-    pdf.multi_cell(0,8,line)
+    # TOP
+    pdf.cell(0,8,line,ln=True)
     pdf.set_font("Arial","B",16)
     pdf.cell(0,10,name.upper(),ln=True,align="C")
-    pdf.set_font("Arial",size=12)
-    pdf.multi_cell(0,8,line)
+    pdf.set_font("Arial", size=12)
+    pdf.cell(0,8,line,ln=True)
 
+    # CONTACT
     pdf.cell(0,8,f"Email - {email}",ln=True,align="R")
     pdf.cell(0,8,f"Mobile - {phone}",ln=True,align="R")
-    pdf.multi_cell(0,8,line)
+    pdf.cell(0,8,line,ln=True)
     pdf.ln(4)
 
+    # DATE
     pdf.cell(0,8,f"Date - {datetime.now().strftime('%d-%m-%Y')}",ln=True)
     pdf.ln(4)
 
+    # SKILLS
     pdf.set_font("Arial","B",12)
     pdf.cell(0,8,"Skills",ln=True)
     pdf.set_font("Arial",size=12)
     pdf.multi_cell(0,8,f"- {skills}")
     pdf.ln(4)
 
+    # EXPERIENCE (FIX ADDED)
     pdf.set_font("Arial","B",12)
     pdf.cell(0,8,"Past Experience",ln=True)
     pdf.set_font("Arial",size=12)
     pdf.cell(0,8,f"Role: {past_job}",ln=True)
     pdf.cell(0,8,f"Companies: {past_company}",ln=True)
+    pdf.cell(0,8,f"Experience (Years): {experience}",ln=True)
 
-    pdf.multi_cell(0,8,line)
+    pdf.cell(0,8,line,ln=True)
     pdf.ln(4)
 
+    # SUGGESTIONS
     pdf.set_font("Arial","B",12)
     pdf.cell(0,8,"Carrier-Compass Suggestions -",ln=True)
     pdf.set_font("Arial",size=12)
